@@ -9,7 +9,7 @@
   </a>
 </p>  
 
-> A React.js based web-app to find repositories containing 'good first issues' for open source contribution.
+> A React.js web app that helps you find GitHub repositories with 'good first issues'—perfect for getting started in open-source contribution.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ This issue will be resolved by **Find-Me-Issues**, with a simple and easy to use
 
 4) Sorting: Sort by number of stars and number of forks to find the optimal open-source project.
 
-5) Theming: Switch between light and dark themses for a better user experience.
+5) Theming: Switch between light and dark themes for a better user experience
 
 ![demo](./assets/demo1.png)
 
@@ -75,9 +75,9 @@ $ npm run build // this script is for frontend
 
 1) Search for Projects: Enter keywords or select programming languages and project categories to search for projects.
 
-2) Filter by Starts and Forks Level: Use the starts filter and the forks filter to narrow down projects that match your experience.
+2) Filter by Starts and Forks Level: Use the stars and forks filters to discover projects that align with your preferences or experience level.
 
-3) Explore Project Details: Read the a brief description about the project and its issues.
+3) Explore Project Details: Read a brief description about the project and its issues.
 
 4) Get Started: Follow the provided links to the project's repository's issues and start contributing.
 
